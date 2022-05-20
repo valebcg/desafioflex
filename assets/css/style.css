@@ -82,19 +82,18 @@
     border-bottom: 1px solid #000000;
   }
   .chat-central {
-    display: flex;
-    background-color: #fff8f8;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-    border: 1px solid #636363;
-    background-image: url("../img/wsp.jpg ");
-    width: 100%;
-  }
-  
-  .imagen {
-    width: 20%;
-    height: 35%;
-  }
-  
+  display: flex;
+  background-color: #fff8f8;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  border: 1px solid #636363;
+  background-image: url("../img/wsp.jpg ");
+  width: 100%;
+}
+
+.imagen {
+  width: 15%;
+  height: 25%;
+}
